@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mert00731
-- 👀 I’m interested in programming and computer science.
-- 🌱 I’m currently learning c# .
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning nodejs , vuejs .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mertsiyami.03@gmail.com
 
